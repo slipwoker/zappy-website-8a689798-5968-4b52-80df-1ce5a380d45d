@@ -1,0 +1,51 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רוצה שהסרטונים שלך יקבלו יותר קליקים? AMITOS מעצבת טאמבניילים ממירים ליוטיוברים, סטרימרים ועסקים. עיצוב מהיר, מקצועי ובולט — תתחיל להגדיל CTR עוד היום.
+
+### תיק עבודות
+https://example.com/work-portfolio
+גלה את הפורטפוליו של AMITOS — עיצובי טאמבניילים לערוצי גיימינג, וולוגים ועסקים שהוכיחו את עצמם בשטח. כל עיצוב נבנה כדי למשוך עיניים ולהניע לקליק מיידי.
+
+### אודות ושירותים
+https://example.com/about-services
+AMITOS מתמחה בעיצוב טאמבניילים לעסקים, יוצרי תוכן וסטרימרים שרוצים להוביל. גלה את הסיפור שלנו, את תהליך העבודה ואת החבילות שיהפכו כל סרטון למגנט קליקים אמיתי.
+
+### שאלות נפוצות
+https://example.com/faq
+כמה זמן לוקח עיצוב? מה כולל כל פרויקט? AMITOS עונה על כל השאלות הנפוצות בנושא עיצוב טאמבניילים לערוצי גיימינג, וולוגים ועסקים — כדי שתוכל להחליט בביטחון מלא.
+
+### צור קשר
+https://example.com/contact
+מוכן להפוך את הערוץ שלך לבלתי ניתן להתעלמות? צור קשר עם AMITOS עכשיו וקבל עיצוב טאמבניילים לעסקים ויוצרי תוכן שממיר מבקרים לצופים נאמנים — תגובה מהירה מובטחת.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
